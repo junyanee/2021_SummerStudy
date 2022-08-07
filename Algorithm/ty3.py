@@ -27,5 +27,3 @@ if len(count) == 0:
 else:
     print('맞춘번호', count)
 
-
-
